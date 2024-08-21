@@ -392,8 +392,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Amazing experience from start to finish. The seller was very
+          responsive and took my ideas to the next level. Thrilled with the
+          final product!”
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
