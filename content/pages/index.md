@@ -261,8 +261,10 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our team of experts specializes in UI/UX design, web design, and web
+      development. We combine creativity and technical expertise to deliver
+      outstanding digital solutions that captivate users and drive business
+      growth.
     actions:
       - label: Get started
         url: /
