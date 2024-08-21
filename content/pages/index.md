@@ -256,7 +256,7 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Transforming Ideas into Exceptional Digital Experiences
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
