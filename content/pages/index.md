@@ -56,7 +56,7 @@ sections:
     items:
       - type: FeaturedItem
         title: UI/UX Design
-        subtitle: Numbers Done
+        subtitle: 40+ Project Completed
         text: >
           We design interfaces for mobile and web applications and make them
           simple and intuitive for the user. We have extensive experience
