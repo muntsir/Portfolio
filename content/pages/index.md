@@ -367,7 +367,7 @@ sections:
           "Exceptional attention to detail and a pleasure to work with! The
           final design exceeded my expectations. Would definitely work with this
           seller again."
-        tagline: Testimonial 3
+        tagline: Website UI UX Design
         subtitle: 'Maria Walters, Monkmoney Pty LTD'
         text: ''
         image:
