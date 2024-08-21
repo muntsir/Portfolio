@@ -58,10 +58,9 @@ sections:
         title: UI/UX Design
         subtitle: Numbers Done
         text: >+
-          ### We design interfaces for mobile and web applications and make them
-          simple and intuitive for the user. We have extensive experience
-          working on social networks, fintech, healthcare, services for ordering
-          taxis or delivering goods, as well as complex corporate products.
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
 
         actions: []
         elementId: null
