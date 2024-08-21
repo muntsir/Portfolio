@@ -236,7 +236,7 @@ sections:
         style: secondary
         type: Button
       - label: Case Studies
-        url: /
+        url: '/https://www.behance.net/muntasirmahmud3'
         showIcon: true
         icon: arrowRight
         iconPosition: right
