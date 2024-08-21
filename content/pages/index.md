@@ -427,7 +427,7 @@ sections:
         subtitle: Jane Walters
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/16.png
           altText: Maria Walters
           styles:
             self:
