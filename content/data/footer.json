@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/tubip 1.png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "BerTobase It is a High Quality Digital solution for Digital Product.\n",
     "primaryLinks": {
         "title": "Product",
@@ -62,13 +57,13 @@
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/muntsir",
             "icon": "github",
             "type": "Social"
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "",
             "icon": "twitter",
             "type": "Social"
         },
