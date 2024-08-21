@@ -308,8 +308,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Very responsive and communicative, pleased with the design, happy
+          with this seller!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
