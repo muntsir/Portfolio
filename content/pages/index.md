@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Let's Hire Us
         altText: ''
-        url: /
+        url: '/https://calendly.com/muntasir1710'
         showIcon: false
         icon: arrowRight
         iconPosition: right
