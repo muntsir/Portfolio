@@ -308,8 +308,9 @@ sections:
     subtitle: Words From Beautiful Peoples
     items:
       - title: >-
-          “Very responsive and communicative, pleased with the design, happy
-          with this seller!”
+          “Very responsive and communicative, delivered beyond expectations!
+          Pleased with the design and overall experience. Highly recommend this
+          seller!”
         tagline: Women Health App UI/UX Design
         subtitle: Elijah Kim
         text: ''
