@@ -369,10 +369,7 @@ sections:
           seller again."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/MacBook Pro 16_ - 1.png
           altText: Maria Walters
