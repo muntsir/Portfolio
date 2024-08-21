@@ -305,7 +305,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Word From Beautiful Peoples
+    subtitle: Words From Beautiful Peoples
     items:
       - title: >-
           “Very responsive and communicative, pleased with the design, happy
