@@ -310,7 +310,7 @@ sections:
       - title: >-
           “Very responsive and communicative, pleased with the design, happy
           with this seller!”
-        tagline: Testimonial 1
+        tagline: Women Health App UI/UX Design
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
