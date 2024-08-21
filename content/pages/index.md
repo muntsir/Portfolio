@@ -86,10 +86,10 @@ sections:
               borderRadius: x-large
       - title: Design
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Elevate your online presence with our expert web design solutions.
+          Share your dream, and we'll transform it into a responsive,
+          SEO-optimized website. Let's turn clicks into loyal customers!
         image:
           url: /images/icon2.svg
           altText: Featured icon two
