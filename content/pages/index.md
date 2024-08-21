@@ -229,7 +229,7 @@ sections:
       Experience increased user engagement and improved website performance with
       our UI/UX design and web development services.
     actions:
-      - label: Get started
+      - label: Contact with Us
         url: '/https://calendly.com/muntasir1710'
         icon: arrowRight
         iconPosition: right
