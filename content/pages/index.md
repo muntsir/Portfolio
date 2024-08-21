@@ -222,7 +222,7 @@ sections:
     type: DividerSection
   - title:
       text: Unlock the potential of your website with our tailored solutions
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
