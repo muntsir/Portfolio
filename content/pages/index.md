@@ -222,7 +222,7 @@ sections:
     type: DividerSection
   - title:
       text: Grow your business 10x faster
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
