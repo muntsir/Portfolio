@@ -448,8 +448,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          "Great collaboration! The seller listened to all my requirements and
+          delivered a stunning design. Couldn't be happier with the results."
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
