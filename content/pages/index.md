@@ -254,7 +254,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: ''
+      label: Lets Grow you business with us
       color: text-primary
       styles:
         self:
