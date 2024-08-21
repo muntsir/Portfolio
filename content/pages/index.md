@@ -312,10 +312,7 @@ sections:
           with this seller!”
         tagline: Women Health App UI/UX Design
         subtitle: Elijah Kim
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/Women Health tracker app ui .jpg
           altText: Maria Walters
