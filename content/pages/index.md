@@ -336,8 +336,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Outstanding work! The design was exactly what I envisioned, and the
+          communication throughout the process was seamless. Highly satisfied
+          with this seller!"
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
