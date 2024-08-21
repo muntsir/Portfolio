@@ -346,7 +346,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Xemiron.png
           altText: John Doe
           styles:
             self:
