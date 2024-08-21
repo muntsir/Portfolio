@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/Upwork.png
+      url: /images/Frame 1618873189.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
