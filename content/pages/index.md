@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: we Provide Quality
       color: text-primary
       type: Badge
     elementId: ''
