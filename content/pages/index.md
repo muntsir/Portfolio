@@ -90,7 +90,6 @@ sections:
           Share your dream, and we'll transform it into a responsive,
           SEO-optimized website. Let's turn clicks into loyal customers!
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
