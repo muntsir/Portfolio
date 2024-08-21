@@ -339,7 +339,7 @@ sections:
           "Outstanding work! The design was exactly what I envisioned, and the
           communication throughout the process was seamless. Highly satisfied
           with this seller!"
-        tagline: Testimonial 2
+        tagline: Xemiron
         subtitle: 'Toufiq Ahmed, Xemiron it solution'
         text: ''
         image:
