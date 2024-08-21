@@ -224,7 +224,7 @@ sections:
       text: Unlock the potential of your website with our tailored solutions
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
       Experience increased user engagement and improved website performance with
       our UI/UX design and web development services.
