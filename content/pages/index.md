@@ -111,10 +111,11 @@ sections:
         type: FeaturedItem
       - title: Web Develop
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We help startups and established businesses to develop new digital
+          products, and streamline existing customer-facing online services, by
+          researching and developing delightful and valuable user experiences,
+          and engineering highly efficient web-and-mobile-native apps.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
