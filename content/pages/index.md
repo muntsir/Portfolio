@@ -257,7 +257,7 @@ sections:
     type: GenericSection
   - title:
       text: Transforming Ideas into Exceptional Digital Experiences
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
