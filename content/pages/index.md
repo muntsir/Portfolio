@@ -230,7 +230,7 @@ sections:
       our UI/UX design and web development services.
     actions:
       - label: Get started
-        url: /
+        url: '/https://calendly.com/muntasir1710'
         icon: arrowRight
         iconPosition: right
         style: secondary
