@@ -44,7 +44,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: The Service we Provide
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center
