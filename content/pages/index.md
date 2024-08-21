@@ -396,7 +396,7 @@ sections:
           responsive and took my ideas to the next level. Thrilled with the
           final product!”
         tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: Maria Walters
         text: ''
         image:
           url: /images/Desktop - 3.png
