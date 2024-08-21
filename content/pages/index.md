@@ -368,7 +368,7 @@ sections:
           final design exceeded my expectations. Would definitely work with this
           seller again."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Maria Walters, Monkmoney Pty LTD'
         text: ''
         image:
           url: /images/MacBook Pro 16_ - 1.png
