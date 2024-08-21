@@ -115,7 +115,6 @@ sections:
           researching and developing delightful and valuable user experiences,
           and engineering highly efficient web-and-mobile-native apps.
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
