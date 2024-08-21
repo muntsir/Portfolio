@@ -84,7 +84,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Design
+      - title: Web Design
         subtitle: The Job Stuff
         text: >
           Elevate your online presence with our expert web design solutions.
