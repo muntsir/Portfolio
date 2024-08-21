@@ -424,7 +424,7 @@ sections:
           Delivered a fantastic design that perfectly matched my brand. Highly
           recommend!"
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: Jane Walters
         text: ''
         image:
           url: /images/person-placeholder-light.png
