@@ -84,7 +84,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Web Design
-        subtitle: The Job Stuff
+        subtitle: 33+
         text: >
           Elevate your online presence with our expert web design solutions.
           Share your dream, and we'll transform it into a responsive,
