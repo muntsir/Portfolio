@@ -311,7 +311,7 @@ sections:
           “Very responsive and communicative, pleased with the design, happy
           with this seller!”
         tagline: Women Health App UI/UX Design
-        subtitle: 'Maria Walters, Company'
+        subtitle: Elijah Kim
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
