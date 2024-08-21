@@ -340,7 +340,7 @@ sections:
           communication throughout the process was seamless. Highly satisfied
           with this seller!"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'Toufiq Ahmed, Xemiron it solution'
         text: ''
         image:
           url: /images/Xemiron.png
