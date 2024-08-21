@@ -226,8 +226,8 @@ sections:
       type: TitleBlock
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Experience increased user engagement and improved website performance with
+      our UI/UX design and web development services.
     actions:
       - label: Get started
         url: /
