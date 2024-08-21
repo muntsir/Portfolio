@@ -108,7 +108,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Development
-        subtitle: Faster
+        subtitle: 15+
         text: >
           We help startups and established businesses to develop new digital
           products, and streamline existing customer-facing online services, by
