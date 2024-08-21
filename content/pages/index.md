@@ -451,7 +451,7 @@ sections:
           "Great collaboration! The seller listened to all my requirements and
           delivered a stunning design. Couldn't be happier with the results."
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: Jane Doe
         text: ''
         image:
           url: /images/img-placeholder-dark.png
