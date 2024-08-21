@@ -221,7 +221,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: Unlock the potential of your website with our tailored solutions
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
