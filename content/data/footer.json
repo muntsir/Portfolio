@@ -74,13 +74,13 @@
         },
         {
             "altText": "LinkedIn link",
-            "url": "https://www.linkedin.com/company/netlify",
+            "url": "https://www.linkedin.com/in/muntasir-mahmud-136a51214/",
             "icon": "linkedin",
             "type": "Social"
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "/muntasir1710@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
