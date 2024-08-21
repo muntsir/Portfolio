@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Let's Build Something Next Level.
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: ''
     text: >
