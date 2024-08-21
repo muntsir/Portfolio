@@ -109,7 +109,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Web Develop
+      - title: Development
         subtitle: Faster
         text: >
           We help startups and established businesses to develop new digital
