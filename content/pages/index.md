@@ -483,7 +483,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Learn More from Our Daily Blogs
       color: text-primary
       styles:
         self:
