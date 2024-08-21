@@ -49,7 +49,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      As a distinguished UI/UX design firm, we offer comprehensive solutions
+      encompassing research, wireframing, UI design, and development. Here are
+      our specialized services:
     items:
       - type: FeaturedItem
         title: 500k
