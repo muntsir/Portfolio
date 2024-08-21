@@ -220,77 +220,34 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title:
-      text: Social Media Management
-      color: text-dark
+      text: Unlock the potential of your website with our tailored solutions
+      color: text-primary
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Experience increased user engagement and improved website performance with
+      our UI/UX design and web development services.
     actions:
-      - label: Get started
-        url: /
+      - label: Contact with Us
+        url: '/https://calendly.com/muntasir1710'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: Case Studies
+        url: '/https://www.behance.net/muntasirmahmud3'
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
+      url: /images/Frame.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -299,13 +256,15 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
-      color: text-dark
+      text: Transforming Ideas into Exceptional Digital Experiences
+      color: text-primary
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our team of experts specializes in UI/UX design, web design, and web
+      development. We combine creativity and technical expertise to deliver
+      outstanding digital solutions that captivate users and drive business
+      growth.
     actions:
       - label: Get started
         url: /
@@ -321,11 +280,11 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Frame-1.png
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -346,19 +305,17 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Words From Beautiful Peoples
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Very responsive and communicative, delivered beyond expectations!
+          Pleased with the design and overall experience. Highly recommend this
+          seller!”
+        tagline: Women Health App UI/UX Design
+        subtitle: Elijah Kim
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Women Health tracker app ui .jpg
           altText: Maria Walters
           styles:
             self:
@@ -379,16 +336,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Outstanding work! The design was exactly what I envisioned, and the
+          communication throughout the process was seamless. Highly satisfied
+          with this seller!"
+        tagline: Xemiron
+        subtitle: 'Toufiq Ahmed, Xemiron it solution'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Xemiron.png
           altText: John Doe
           styles:
             self:
@@ -409,16 +364,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Exceptional attention to detail and a pleasure to work with! The
+          final design exceeded my expectations. Would definitely work with this
+          seller again."
+        tagline: Website UI UX Design
+        subtitle: 'Maria Walters, Monkmoney Pty LTD'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/MacBook Pro 16_ - 1.png
           altText: Maria Walters
           styles:
             self:
@@ -439,16 +392,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Amazing experience from start to finish. The seller was very
+          responsive and took my ideas to the next level. Thrilled with the
+          final product!”
+        tagline: website
+        subtitle: Maria Walters
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Desktop - 3.png
           altText: Maria Walters
           styles:
             self:
@@ -469,16 +420,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "The seller was professional, prompt, and incredibly talented.
+          Delivered a fantastic design that perfectly matched my brand. Highly
+          recommend!"
         tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Jane Walters
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/16.png
           altText: Maria Walters
           styles:
             self:
@@ -499,23 +448,20 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          "Great collaboration! The seller listened to all my requirements and
+          delivered a stunning design. Couldn't be happier with the results."
         tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: Jane Doe
+        text: ''
         image:
-          url: /images/img-placeholder-dark.png
+          url: /images/iPhone_Mockup_5.png
           altText: Jane Doe
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -537,7 +483,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Learn More from Our Daily Blogs
       color: text-primary
       styles:
         self:
@@ -628,65 +574,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
-      color: text-dark
-      type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
