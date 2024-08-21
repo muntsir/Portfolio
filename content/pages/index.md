@@ -55,7 +55,7 @@ sections:
       our specialized services:
     items:
       - type: FeaturedItem
-        title: 500k
+        title: UI/UX Design
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
