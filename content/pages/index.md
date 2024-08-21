@@ -13,7 +13,7 @@ sections:
       Website, SaaS, CRM, ERP **UI/UX Design** and Develop Service.
     actions:
       - label: Let's Hire Us
-        altText: ''
+        altText: button
         url: '/https://calendly.com/muntasir1710'
         showIcon: true
         icon: arrowRight
