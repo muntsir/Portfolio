@@ -43,24 +43,24 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Behacne Project ",
+                    "url": "/https://www.behance.net/muntasirmahmud3",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Our Dribbble",
+                    "url": "/https://dribbble.com/Muntasir1710",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Portfolio",
+                    "url": "/https://muntasirmahmud.framer.website/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -73,17 +73,8 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Contact Us",
+            "url": "/http://wa.me/+8801781907745",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
