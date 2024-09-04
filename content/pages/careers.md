@@ -85,7 +85,7 @@ sections:
     items: []
     actions:
       - label: Apply now
-        url: /
+        url: /muntasir1710@gmail.com
         icon: arrowRight
         iconPosition: right
         style: primary
