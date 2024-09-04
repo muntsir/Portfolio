@@ -272,7 +272,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Case Studies
         url: /
         showIcon: true
         icon: arrowRight
