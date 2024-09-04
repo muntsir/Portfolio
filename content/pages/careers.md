@@ -81,7 +81,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Contact Us For your Skills
     items: []
     actions:
       - label: Apply now
