@@ -133,7 +133,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '//https://calendly.com/muntasir1710'
         showIcon: false
         icon: arrowRight
         iconPosition: right
