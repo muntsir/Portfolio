@@ -273,7 +273,8 @@ sections:
         style: secondary
         type: Button
       - label: Case Studies
-        url: /
+        url: >-
+          /https://www.behance.net/gallery/206394093/e-Learning-website-UIUX-Case-Studies
         showIcon: true
         icon: arrowRight
         iconPosition: right
