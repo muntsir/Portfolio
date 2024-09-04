@@ -18,7 +18,7 @@ sections:
       anything embarrassing hidden in the middle of text.
     actions:
       - label: Contact For positions
-        url: /
+        url: /muntasir1710@gmail.com
         icon: arrowRight
         iconPosition: right
         style: primary
