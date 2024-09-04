@@ -48,7 +48,7 @@ sections:
       opacity: 100
       url: /images/Sot one.png
   - title:
-      text: Meet the team
+      text: Meet Our Team
       color: text-dark
       styles:
         self:
