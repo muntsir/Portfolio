@@ -84,7 +84,7 @@ sections:
     subtitle: Contact Us For your Skills
     items: []
     actions:
-      - label: Apply now
+      - label: Send Resume
         url: /muntasir1710@gmail.com
         icon: arrowRight
         iconPosition: right
