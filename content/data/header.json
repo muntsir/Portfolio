@@ -59,7 +59,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Portfolio",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
