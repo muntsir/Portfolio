@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Asher Schmitt",
-    "role": "Co-founder & CEO",
+    "name": "Zulfiqar Mohammad",
+    "role": "Co-founder & MD",
     "image": {
-        "url": "/images/avatar3.svg",
+        "url": "/images/13686530_538928766232225_7834754872388129944_n.jpg",
         "altText": "Asher Schmitt",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Full Stack WordPress Developer\n"
 }

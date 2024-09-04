@@ -17,8 +17,8 @@ sections:
       going to use a passage of Lorem Ipsum, you need to be sure there isn't
       anything embarrassing hidden in the middle of text.
     actions:
-      - label: See open positions
-        url: /
+      - label: Contact For positions
+        url: /muntasir1710@gmail.com
         icon: arrowRight
         iconPosition: right
         style: primary
@@ -46,9 +46,9 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/Sot one.png
   - title:
-      text: Meet the team
+      text: Meet Our Team
       color: text-dark
       styles:
         self:
@@ -75,72 +75,17 @@ sections:
         textAlign: center
     type: FeaturedPeopleSection
   - title:
-      text: Open positions
+      text: Open Positions
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
-    items:
-      - title: Account Executive
-        subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: Senior Software Engineer
-        subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
+    subtitle: Contact Us For your Skills
+    items: []
     actions:
-      - label: Apply now
-        url: /
+      - label: Send Resume
+        url: /muntasir1710@gmail.com
         icon: arrowRight
         iconPosition: right
         style: primary
