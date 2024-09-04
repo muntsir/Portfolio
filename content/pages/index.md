@@ -267,7 +267,7 @@ sections:
       growth.
     actions:
       - label: Get started
-        url: /
+        url: '//https://calendly.com/muntasir1710'
         icon: arrowRight
         iconPosition: right
         style: secondary
